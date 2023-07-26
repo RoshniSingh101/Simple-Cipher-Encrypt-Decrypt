@@ -1,5 +1,4 @@
-# Programming Caesar's Cipher Starter Code
-This is a place for you to start building your Programming Caesar's Cipher Project!
+# Programming Caesar's Cipher
 
 ### Project Requirements
 Your project should:
